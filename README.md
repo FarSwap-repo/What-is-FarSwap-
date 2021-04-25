@@ -1,4 +1,5 @@
 INTRODUCTION.
+
  FarSwap is a decentralized cryptocurrency software built on the ethereum blockchain that enables a network of users to lend, borrow, buy and sell crypto assets and earn massive rewards. FarSwap is the pioneer decentralized platform that rewards both the lenders and the borrowers on the platform. 
 The platform is both community-owned and community-run. 
 Instead of using an order book, FarSwap utilizes automated market-making (AMM). In this model, liquidity providers add funds to the liquidity pool.
